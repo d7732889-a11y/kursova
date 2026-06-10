@@ -1,0 +1,29 @@
+body{
+background-color: #DC143C;
+}
+.vh{
+height: 300px;
+width: 500px;
+}
+img{
+width: 500px;
+border: 2px solid black;
+border-radius: 35px;
+}
+footer{
+background-color: #C71010;
+}
+.c{
+background-color: #DC143C;
+border: none;
+}
+.k{
+position: fixed;
+bottom: 0;
+width: 100%;
+}
+.g{
+position: absolute;
+bottom: 5px;
+left: 50%;
+}
